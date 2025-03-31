@@ -1,21 +1,14 @@
 # Test2
 
-1.) Create Git Repo, Add Project Board, Initial Commit with provided files.(Check the video demo)
+Name: Oscar Mejia
 
-2.) Create Issues of 5 Test Cases (First one will be demonstrated, check the video demo. Also test cases solutions are provided.
+Eagle ID: 900601849
 
-3.) Each Test case create branch, create pull requests and merge in the main branch.
+Email: om00913@georgiasouthern.edu
 
-4.) Update the project board accordingly.
+# Description
 
-5.) Update Readme.md with proper information of yours and the task.
-
-
-Task 1 with the First Test Case, Readme.md (demo provided) : 20 Points
-Remaining 4 Test Cases(Implementation, Branch creation, Pull Requests, Merge Operations) : 80 Points
-
-
-Create a pdf file:
-Page 1: Name, Eagle id, email, Github repository link of your Test2 repo
-Make sure your repository is public, otherwise we will not be able to access to grade.
+Created a repository on on Github. and then cloned the repository 
+locally. Created a base project files initially, and then created a 
+new working branch based off of an issue name. Conducted basic git operations in order to have a coherent workflow.
 
